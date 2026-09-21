@@ -46,8 +46,8 @@
 ### 1. 克隆仓库
 
 ```bash
-git clone https://github.com/<你的用户名>/arrow-after-arrow.git
-cd arrow-after-arrow
+git clone https://github.com/X-runner354/Arrow.git
+cd Arrow
 ```
 
 ### 2. 创建虚拟环境（推荐）
